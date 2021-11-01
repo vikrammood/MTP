@@ -1,3 +1,4 @@
+# Ford-Fulkerson Algorithm
 def bfs(C, F, s, t):
         stack = [s]
         paths={s:[]}
